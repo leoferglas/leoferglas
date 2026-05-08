@@ -26,14 +26,6 @@
 
 ---
 
-## ⚽ Beyond Tech
-
-- 🤾 Handball enthusiast – the sport that keeps me moving, focused, and competitive.  
-- 🏋️ When I'm not on the court, you'll find me enjoying **all kinds of sports and entertainment**.  
-- 🎯 Balance is key: tech by day, sports by passion.  
-
----
-
 ## 📊 GitHub Stats
 
 ![Leonard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardVerclas&show_icons=true&theme=radical)  
